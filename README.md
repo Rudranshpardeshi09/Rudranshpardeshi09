@@ -1,5 +1,12 @@
 # 💫 About Me:
-Aspiring AI developer and MCA (Integrated) student with hands-on experience in deep learning, computer vision, and full-stack application development. Key projects include a Deepfake AI Video Detector leveraging CNNs and facial landmark analysis (90%+ accuracy on FaceForensics++/DFDC) and a privacy-first Password Manager built with React and Vite. Skilled in Python, C/C++, HTML, CSS, JavaScript, MySQL, MongoDB, and Tailwind, with proficiency in Git/GitHub workflows. Certified in AI Prompt Design (Google Vertex AI), Azure AI Services, and Fundamental AI Concepts (Microsoft). Strong critical thinking, problem-solving, and communication skills, with a focus on model interpretability, robustness, and user-centric design.
+-Aspiring AI developer and MCA (Integrated) student.
+-Hands-on experience in deep learning, computer vision, and full-stack application development.
+-Key projects 
+      1. Deepfake AI Video Detector leveraging CNNs and facial landmark analysis (90%+ accuracy on FaceForensics++/DFDC)
+      2. Privacy-first Password Manager built with React and Vite. 
+-Skilled in Python, C/C++, HTML, CSS, JavaScript, MySQL, MongoDB, and Tailwind, with proficiency in Git/GitHub workflows.
+-Certified in AI Prompt Design (Google Vertex AI), Azure AI Services, and Fundamental AI Concepts (Microsoft).
+-Strong critical thinking, problem-solving, and communication skills, with a focus on model interpretability, robustness, and user-centric design.
 
 
 ## 🌐 Socials:
