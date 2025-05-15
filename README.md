@@ -1,6 +1,6 @@
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-# 💫 About Me:
+<p> # 💫 About Me:
 -Aspiring AI developer and MCA (Integrated) student.<br>
 -Hands-on experience in deep learning, computer vision, and full-stack application development.<br>
 -Key projects <br>
@@ -8,7 +8,7 @@
       2. Privacy-first Password Manager built with React and Vite. <br>
 -Skilled in Python, C/C++, HTML, CSS, JavaScript, MySQL, MongoDB, and Tailwind, with proficiency in Git/GitHub workflows.<br>
 -Certified in AI Prompt Design (Google Vertex AI), Azure AI Services, and Fundamental AI Concepts (Microsoft).<br>
--Strong critical thinking, problem-solving, and communication skills, with a focus on model interpretability, robustness, and user-centric design.<br>
+-Strong critical thinking, problem-solving, and communication skills, with a focus on model interpretability, robustness, and user-centric design.<br></p>
 
 
 ## 🌐 Socials:
