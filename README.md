@@ -1,6 +1,6 @@
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-<b># 💫 About Me:<br></b>
+<b style="font-size: 24px;"># 💫 About Me:<br></b>
 -Aspiring AI developer and MCA (Integrated) student.<br>
 -Hands-on experience in deep learning, computer vision, and full-stack application development.<br>
 -Key projects <br>
