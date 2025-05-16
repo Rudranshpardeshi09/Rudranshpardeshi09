@@ -1,4 +1,5 @@
- <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+<p>
 <h2> # 💫 About Me: </h2>
 -Aspiring AI developer and MCA (Integrated) student.<br>
 -Hands-on experience in deep learning, computer vision, and full-stack application development.<br>
@@ -8,7 +9,7 @@
 -Skilled in Python, C/C++, HTML, CSS, JavaScript, MySQL, MongoDB, and Tailwind, with proficiency in Git/GitHub workflows.<br>
 -Certified in AI Prompt Design (Google Vertex AI), Azure AI Services, and Fundamental AI Concepts (Microsoft).<br>
 -Strong critical thinking, problem-solving, and communication skills, with a focus on model interpretability, robustness, and user-centric design.<br>
-
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/rudranshhh_09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rudransh-pardeshi-666ba9266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudranshpardeshi12@gmail.com) 
